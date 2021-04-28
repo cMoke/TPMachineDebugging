@@ -1,0 +1,9 @@
+﻿  Building 'TPMachineDebugging' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(402,5): warning MSB8038: Spectre mitigation is enabled but Spectre mitigated libraries are not found.  Verify that the Visual Studio Workload includes the Spectre mitigated libraries.  See https://aka.ms/Ofhn4c for more information.
+  Stamping x64\Debug\TPMachineDebugging.inf
+  Stamping [Version] section with DriverVer=04/28/2021,21.13.29.316
+  MachineDebuggingMain.c
+e:\source\tpmachinedebugging1\tpmachinedebugging\machinedebuggingmain.c(553): warning C4098: 'HookkdpTrapsol': 'void' function returning a value
+e:\source\tpmachinedebugging1\tpmachinedebugging\machinedebuggingmain.c(599): warning C4098: 'HookkdpTrapsol': 'void' function returning a value
+e:\source\tpmachinedebugging1\tpmachinedebugging\machinedebuggingmain.c(605): warning C4098: 'HookkdpTrapsol': 'void' function returning a value
+  TPMachineDebugging.vcxproj -> E:\Source\TPMachineDebugging1\x64\Debug\TPMachineDebugging.sys

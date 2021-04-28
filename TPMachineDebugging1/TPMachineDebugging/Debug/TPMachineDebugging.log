@@ -1,0 +1,5 @@
+﻿  Building 'TPMachineDebugging' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\TPMachineDebugging.inf
+  Stamping [Version] section with DriverVer=03/19/2020,10.50.38.371
+  MachineDebuggingMain.c
+  TPMachineDebugging.vcxproj -> C:\Users\LEGION\source\repos\TPMachineDebugging\Debug\TPMachineDebugging.sys
